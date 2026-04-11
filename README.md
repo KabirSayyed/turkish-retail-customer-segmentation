@@ -24,6 +24,15 @@ This project performs customer segmentation analysis on a Turkish retail dataset
 3. DAX measures using TOPN, SUMX, FIRSTNONBLANK
 4. KPI cards, bar charts, pie chart etc.
 
+Page 1
+
+   <img width="1291" height="710" alt="Screenshot 2026-04-10 211433" src="https://github.com/user-attachments/assets/5f42c7a3-4845-46f3-a401-88090f46274b" />
+
+Page 2
+
+  <img width="1285" height="721" alt="Screenshot 2026-04-10 211511" src="https://github.com/user-attachments/assets/9b47beb5-62e0-45e0-bbaf-52bf0ad6ad4f" />
+
+
 
 💡 Key Findings
 
