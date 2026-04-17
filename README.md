@@ -22,7 +22,7 @@ This project performs customer segmentation analysis on a Turkish retail dataset
 1. 2-page interactive dashboard with page navigation buttons
 2. Sync slicers across both pages for consistent filtering
 3. DAX measures using TOPN, SUMX, FIRSTNONBLANK
-4. KPI cards, bar charts, pie chart etc.
+4. KPI cards, bar charts,stacked bar chart, pie chart etc.
 
 Page 1
 
