@@ -1,6 +1,8 @@
 📊 Project Overview
 This project performs customer segmentation analysis on a Turkish retail dataset as part of the DataMites Certified Data Analyst (PRDA-05) capstone program. The goal was to identify purchasing patterns, revenue drivers, and customer behavior trends across different demographics.
 
+For detail Explanation, Visit : kabirsayyed.github.io
+
 🎯 Business Questions Answered
 
 1. Which gender contributes more to total revenue?
